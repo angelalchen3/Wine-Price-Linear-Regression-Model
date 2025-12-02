@@ -106,4 +106,19 @@ The categorical encoding revealed strong winery-specific effects:
 
 ---
 
-## 📁 Repository Structure
+## 🧠 Conclusion
+
+This project demonstrates a complete end-to-end regression analysis.  
+By diagnosing and reducing multicollinearity and incorporating categorical 
+winery effects, the final model achieves strong interpretability and excellent 
+predictive performance on unseen data.
+
+The analysis showcases statistical thinking, model evaluation techniques, and 
+clear communication—essential skills for data science and analytics roles.
+
+---
+
+## 📬 Contact
+
+If you’d like to discuss the project or have feedback, feel free to connect!
+
