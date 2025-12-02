@@ -1,7 +1,7 @@
 # Wine Price Modeling with Linear Regression  
 Predicting Bordeaux Wine Auction Prices Using Climate Data, Aging, and Winery Effects
 
-## 📌 Project Overview
+## 📌 Repo Overview
 This repo builds a series of linear regression models to predict Bordeaux wine auction prices.  
 Using both aggregated and disaggregated datasets, the analysis explores:
 
@@ -108,7 +108,7 @@ The categorical encoding revealed strong winery-specific effects:
 
 ## 🧠 Conclusion
 
-This project demonstrates a complete end-to-end regression analysis.  
+This repo demonstrates a complete end-to-end regression analysis.  
 By diagnosing and reducing multicollinearity and incorporating categorical 
 winery effects, the final model achieves strong interpretability and excellent 
 predictive performance on unseen data.
@@ -120,5 +120,5 @@ clear communication—essential skills for data science and analytics roles.
 
 ## 📬 Contact
 
-If you’d like to discuss the project or have feedback, feel free to connect!
+If you’d like to discuss the repo or have feedback, feel free to connect!
 
