@@ -17,10 +17,14 @@ The workflow demonstrates statistical modeling, diagnostics, model refinement, a
 ## 📂 Datasets
 ### **wine_agg.csv**
 Contains annual, aggregated information:
-- LogAuctionIndex (log-transformed wine price index)  
-- Seasonal rainfall and temperatures  
-- Wine age  
-- Population and alcohol consumption variables  
+- LogAuctionIndex (log-transformed wine price index) based on 2015 auction prices
+- Winter rain (mm)
+- Harveset rain (mm)
+- Avg temp in growing season (Celsius)
+- Avg temp in harvest season (Celsius)
+- Wine age (years since vintage)
+- France population
+- US Alcohol Consumption (per capita, in liters of 100% alcohol)
 
 ### **wine_disagg.csv**
 A more detailed dataset including:
