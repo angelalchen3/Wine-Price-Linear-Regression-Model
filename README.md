@@ -127,6 +127,10 @@ clear communication—essential skills for data science and analytics roles.
 
 <img width="767" height="379" alt="image" src="https://github.com/user-attachments/assets/bedb09a6-bf8c-49d7-a8fa-5fc427f964bc" />
 
+Multiple Linear Regression
+<img width="884" height="360" alt="image" src="https://github.com/user-attachments/assets/c06e155a-7fd9-42ba-b5ac-902013d9bd96" />
+
+
 
 ---
 
