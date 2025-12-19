@@ -122,6 +122,14 @@ clear communication—essential skills for data science and analytics roles.
 
 ---
 
+
+## 📬 Images 
+
+<img width="767" height="379" alt="image" src="https://github.com/user-attachments/assets/bedb09a6-bf8c-49d7-a8fa-5fc427f964bc" />
+
+
+---
+
 ## 📬 Contact
 
 If you’d like to discuss the repo or have feedback, feel free to connect!
